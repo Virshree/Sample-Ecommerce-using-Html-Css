@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+}
+.header{
+    background-color: black;
+    color: white;
+    height:35px;
+    margin: 10px;
+
+}
+.list   {
+    display: flex;
+    flex-direction: row;
+   text-indent: 20px;
+   text-decoration: none;
+    font-size: 20px;
+}
+.list a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.check{
+ 
+    color: orangered;
+}
